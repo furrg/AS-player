@@ -3,6 +3,6 @@
     <widget>
         <name>AbleSign Player Wrapper</name>
         <description>Loads player.ablesign.tv fullscreen</description>
-        <content>AS-player.wgt</content>
+        <content>ASplayer.wgt</content>
     </widget>
 </sssp>

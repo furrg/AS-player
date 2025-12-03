@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sssp>
+    <widget>
+        <name>AbleSign Player Wrapper</name>
+        <description>Loads player.ablesign.tv fullscreen</description>
+        <content>AS-player.wgt</content>
+    </widget>
+</sssp>
